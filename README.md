@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @SlideShowGames
 - 👀 I’m interested in making games 
-- 🌱 I’m currently learning german
+- 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate with constuct 3
 - 📫 How to reach me xboxps406@icloud.com
 
